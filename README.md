@@ -60,6 +60,10 @@ https://github.com/Akrutijain/akruti-jain-wasserstoff-FrontendTask
 
 https://akruti-jain-wasserstoff-frontend-task.vercel.app/
 
+## Project Explanation Link
+
+https://www.loom.com/share/dd002c2928834058a6f125316fc84330
+
 ## How I approached the task
 
 I started the project with Next.js, integrating Tailwind CSS for flexible design and Framer Motion for seamless animations. Utilizing Next.js' pages-based routing enhances navigation flexibility over traditional app routing, ensuring efficient development and user experience.
