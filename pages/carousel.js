@@ -5,7 +5,7 @@ import Carousel from "react-multi-carousel";
 import "react-multi-carousel/lib/styles.css";
 import { useRouter } from 'next/navigation'
 
-const collections = () => {
+const carousel = () => {
 
   const router = useRouter()
 
@@ -256,4 +256,4 @@ const collections = () => {
   );
 };
 
-export default collections;
+export default carousel;

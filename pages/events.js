@@ -119,7 +119,7 @@ const events = () => {
                   onChange={handleToggle}
                 />
                 <label
-                  onClick={() => router.push("/collections")}
+                  onClick={() => router.push("/carousel")}
                   htmlFor="contrasts-off"
                   className={styles.offLabel}
                 >
