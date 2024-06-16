@@ -58,7 +58,7 @@ https://github.com/Akrutijain/akruti-jain-wasserstoff-FrontendTask
 
 ## Hosted Link
 
-akruti-jain-wasserstoff-frontend-task.vercel.app
+https://akruti-jain-wasserstoff-frontend-task.vercel.app/
 
 ## How I approached the task
 
